@@ -5,7 +5,7 @@ void mergesort()
 }
 void quicksort()
 {
-    //
+    "hello world"
 }
 int main()
 {
